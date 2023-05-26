@@ -1,0 +1,26 @@
+html{
+    background-color: black;
+}
+#divPosition{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 15px;
+}
+p {
+    color: aliceblue;
+}
+#divPosisiTengah{
+    text-align: center;
+}
+#imgposisi{
+    border: 2px solid white;
+}
+#paragrafPosisi {
+    margin-top: 12px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.textCenter {
+    text-align: center;
+}
