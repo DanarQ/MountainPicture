@@ -14,7 +14,7 @@ p {
 }
 #imgposisi{
     border: 2px solid white;
-    min-width: 455px;
+    min-width: 100px;
     max-width: 100%;
     height: auto;
 }
